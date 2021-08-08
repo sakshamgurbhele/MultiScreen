@@ -1,2 +1,2 @@
 # MultiScreen
-hello
+hello this is test app.

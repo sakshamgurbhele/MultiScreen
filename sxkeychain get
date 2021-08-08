@@ -1,0 +1,39 @@
+[33mcommit 7b8e9babf72c013b511da54ba682d90b2c910296[m[33m ([m[1;36mHEAD -> [m[1;32m2v[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 0976414 4408aba
+Author: SakshamGurbhele <saksham9013gurbhele@gmail.com>
+Date:   Sun Aug 8 22:54:13 2021 +0530
+
+    merge
+
+[33mcommit 0976414481628ac2462fc2249e3bf178d7cc2177[m[33m ([m[1;31morigin/2v[m[33m, [m[1;32m1v[m[33m)[m
+Author: SakshamGurbhele <saksham9013gurbhele@gmail.com>
+Date:   Sun Aug 8 22:50:39 2021 +0530
+
+    Fixed some bugs
+
+[33mcommit 4408abaae883142dd234f673acdbfa4e2f2f2a3e[m
+Merge: 66c2646 83bfaec
+Author: SAKSHAM GURBHELE <saksham9013gurbhele@gmail.com>
+Date:   Sun Aug 8 22:37:35 2021 +0530
+
+    Merge pull request #1 from sakshamgurbhele/2v
+    
+    readme.md
+
+[33mcommit 83bfaecefcbdfea84bb135db4e7026ad6bb501f6[m
+Author: SakshamGurbhele <saksham9013gurbhele@gmail.com>
+Date:   Sun Aug 8 22:35:53 2021 +0530
+
+    readme.md
+
+[33mcommit 66c2646e8cc24652916393afe5dd385d39742388[m[33m ([m[1;31morigin/1v[m[33m)[m
+Author: SakshamGurbhele <saksham@Sakshams-MacBook-Air.local>
+Date:   Sun Aug 8 21:08:28 2021 +0530
+
+    intial Commit
+
+[33mcommit dcda4a0020a9e438f71c87f2fcb17152d4d95eac[m
+Author: SakshamGurbhele <saksham@Sakshams-MacBook-Air.local>
+Date:   Sun Aug 8 21:07:27 2021 +0530
+
+    first commit

@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String s = EditText.getText().toString();
-                Toast.makeText(MainActivity.this, "This "+ s, Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Your text was"+ s, Toast.LENGTH_SHORT).show();
             }
         });
     }
